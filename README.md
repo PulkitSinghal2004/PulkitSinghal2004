@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&color=7e15f7&random=falsesize=35&center=true&vCenter=true&width=500&height=70&duration=2000&lines=Hi+There!+👋;+I'm+Pulkit+Singhal+👨🏻‍💻;" />
 </h1>
 
-<h2 align="center">A Passionate Software Engineer &💻
+<h2 align="center">A Passionate Software Engineer💻
 
 </h2>
 
@@ -18,10 +18,10 @@ In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes ☸️, al
  
 <div align="center"> 
   <a href="mailto:pulkitsinghal990@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-6C22A6?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
     <a href="https://www.linkedin.com/in/pulkit-singhal18/" >
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"  />
   </a>
 </div>
 
