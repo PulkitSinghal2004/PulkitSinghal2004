@@ -12,7 +12,7 @@
 
 With expertise in cutting-edge technologies like React.js, React Native, Next.js 15, Firebase, Node.js, Express.js, MongoDB, and more, I craft sleek, high-performing web and mobile applications tailored to user needs.
 
-In DevOps, I utilize tools like Git 🐙, Docker 🐳, and Kubernetes ☸️, along with cloud platforms such as AWS ☁️ and Azure 🔵 to streamline development processes and enhance deployment efficiency.
+
 
 </div>
  
